@@ -1,8 +1,8 @@
 # README
 
 ###HOW TO RUN
-
-clone from Github Repository in this case https://github.com/Freddy-ux/Super-Heroes 
+https://github.com/MPChege/Code-Challenge-Superheroes
+clone from Github Repository in this case
 
 Type Rails s to start the Rails Server
 
@@ -36,7 +36,6 @@ REST: When we build Rails apps, we build apps that are "RESTful" in nature. REST
 
 RESTFUL applications are lightweight, maintainable, and scalable.
 
-
 Task 1 - Solving the Associations
 New associations need to be created between the two tables - Superheroes and Superpowers. Using the "rails g migration" command, I added two new columns to superheroes, powerpower_id (integer) and superpower_name (string). I also added new seeds to the exisiting seeds.rb file so that the tables could repopulate with the relevant data.
 
@@ -65,7 +64,8 @@ About
 A challenge built in Ruby on Rails. Add, delete, edit, search, and filter different superheroes, no duplicates allowed.
 
 Resources
-CHAT GPT 
+CHAT GPT
 GOOGLE
 MICROSOFT BING..
+
 # Super-Heroes
